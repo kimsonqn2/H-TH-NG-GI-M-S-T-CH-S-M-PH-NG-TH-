@@ -1,0 +1,6 @@
+{
+  "name": "Urban Simulation Dashboard",
+  "description": "Dashboard giám sát các chỉ số mô phỏng đô thị: tiến độ số hóa hồ sơ địa chính, lưu lượng dữ liệu dự án DT15 và hoạt động sàn giao dịch dữ liệu với bố cục 3 cột và sidebar lọc thời gian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
